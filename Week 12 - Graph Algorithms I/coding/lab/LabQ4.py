@@ -1,8 +1,8 @@
 # Lab 4: Compare BFT and DFT
 
-from LabQ1 import G1, G2, G3
-from LabQ2 import breadth_first_traversal
-from LabQ3 import depth_first_traversal
+from coding.lab.LabQ1 import G1, G2, G3
+from coding.lab.LabQ2 import breadth_first_traversal
+from coding.lab.LabQ3 import depth_first_traversal
 
 graphs = {'G1': G1, 'G2': G2, 'G3': G3}
 start_vertices = ['A', 'B', 'C', 'D', 'E']

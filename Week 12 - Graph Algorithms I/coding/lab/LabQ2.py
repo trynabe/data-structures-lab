@@ -1,7 +1,7 @@
 # Lab 2: Breadth-First Traversal
 
 from collections import deque
-from LabQ1 import G1, G2, G3
+from coding.lab.LabQ1 import G1, G2, G3
 
 def breadth_first_traversal(graph, start):
     visited = []

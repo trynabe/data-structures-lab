@@ -1,6 +1,6 @@
 # Lab 3: Depth-First Traversal
 
-from LabQ1 import G1, G2, G3
+from coding.lab.LabQ1 import G1, G2, G3
 
 def depth_first_traversal(graph, start):
     visited = []

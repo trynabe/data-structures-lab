@@ -1,4 +1,4 @@
-from LabQ1 import G1, G2, G3
+from coding.lab.LabQ1 import G1, G2, G3
 
 def transform_to_matrix(graph):
     nodes = sorted(list(graph.keys()))
